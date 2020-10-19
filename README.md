@@ -2,7 +2,7 @@
 
 ## Substring
 
-´´´
+```
  class Program
     {
         static void Main(string[] args)
@@ -17,12 +17,11 @@
         }
     }
     
-    ´´´
-    
+```
     
     ## LOGITpe20
     
-    ´´´ 
+```
      static void Main(string[] args)
         {
             Console.WriteLine("Good Morning!");
@@ -49,12 +48,12 @@
             Console.WriteLine(Twenty);
         }
         
-        ´´´
+```
         
         
         ## YearValidator
        
-       ´´´
+```
        class Program
     {
         static void Main(string[] args)
@@ -108,8 +107,7 @@
 
 
     }
-    
-    ´´´
+    ```   
     
        
        
